@@ -1,0 +1,55 @@
+/* --sm-- Small Devices, Tablets */
+@media only screen and (min-width : 576px) {
+    .wrap-slider1 .panel{
+        width: 26.625rem;
+    }
+    .block1 h2{
+        margin-left: 0;
+    }
+}
+
+/* --md-- Medium Devices, Desktops */
+@media only screen and (min-width : 768px) {
+    .time-ico, .tel-ico{
+        margin-left: 4.261364em;
+    }
+    .block1 .card{
+        height: 30.0625em;
+    }
+    .wrap-slider1 .panel{
+        right: 5.9375rem;
+    }
+    .screen-pic .card-screen{
+        width: 34.6875em;
+    }
+    .larnaka{
+        margin: 9.25rem 0 2rem 4.125rem;
+    }
+    #roundabout-prev:after, #roundabout-next::before{
+        width: 8em;
+    }
+    #roundabout-prev:after{
+        right: -9em;
+    }
+    #roundabout-next::before{
+        left: -9em;
+    }
+}
+
+/* --lg-- Large Devices, Wide Screens */
+@media only screen and (min-width : 992px) {
+    .navbar-light .navbar-nav.main-menu .nav-link:not(:last-child){
+        margin-right: 1.2em;
+    }
+    #roundaboutslider .control{
+        margin-left: 6.6rem;
+        margin-right: 6.6rem;
+    }
+}
+
+/* --xl-- Extra Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+    .navbar-light .navbar-nav.footer-menu .nav-link{
+        padding: .5rem 2rem 0 .5rem;
+    }
+}

@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "PTSansRegular";
+  src: url("../fonts/PTSansRegular/PTSans-Regular.eot");
+  src: url("../fonts/PTSansRegular/PTSans-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/PTSansRegular/PTSans-Regular.otf") format("opentype"),
+    url("../fonts/PTSansRegular/PTSans-Regular.svg") format("svg"),
+    url("../fonts/PTSansRegular/PTSans-Regular.ttf") format("truetype"),
+    url("../fonts/PTSansRegular/PTSans-Regular.woff") format("woff"),
+    url("../fonts/PTSansRegular/PTSans-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MyriadProLight";
+  src: url("../fonts/MyriadProLight/MyriadPro-Light.eot");
+  src: url("../fonts/MyriadProLight/MyriadPro-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/MyriadProLight/MyriadPro-Light.otf") format("opentype"),
+    url("../fonts/MyriadProLight/MyriadPro-Light.svg") format("svg"),
+    url("../fonts/MyriadProLight/MyriadPro-Light.ttf") format("truetype"),
+    url("../fonts/MyriadProLight/MyriadPro-Light.woff") format("woff"),
+    url("../fonts/MyriadProLight/MyriadPro-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "MyriadProSemibold";
+  src: url("../fonts/MyriadProSemibold/MyriadPro-Semibold.eot");
+  src: url("../fonts/MyriadProSemibold/MyriadPro-Semibold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/MyriadProSemibold/MyriadPro-Semibold.otf") format("opentype"),
+    url("../fonts/MyriadProSemibold/MyriadPro-Semibold.svg") format("svg"),
+    url("../fonts/MyriadProSemibold/MyriadPro-Semibold.ttf") format("truetype"),
+    url("../fonts/MyriadProSemibold/MyriadPro-Semibold.woff") format("woff"),
+    url("../fonts/MyriadProSemibold/MyriadPro-Semibold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "MyriadProRegular";
+  src: url("../fonts/MyriadProregular/MyriadPro-Regular.eot");
+  src: url("../fonts/MyriadProRegular/MyriadPro-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/MyriadProRegular/MyriadPro-Regular.otf") format("opentype"),
+    url("../fonts/MyriadProRegular/MyriadPro-Regular.svg") format("svg"),
+    url("../fonts/MyriadProRegular/MyriadPro-Regular.ttf") format("truetype"),
+    url("../fonts/MyriadProRegular/MyriadPro-Regular.woff") format("woff"),
+    url("../fonts/MyriadProRegular/MyriadPro-Regular.woff2") format("woff2");
+}
